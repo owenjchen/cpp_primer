@@ -9,7 +9,7 @@ This is an introductory C++ programming course offered by Cary Chinese School.
 
 > The course is designed for high school students who have some background knowledge of programming, such as knowing a little Java or Python.  However, prior programming experience will be helpful but it is not required.
 
-## [Week 0: Set up C++ Tools on Windows and Mac](1._setup.md)
+## [Week 0: Set up C++ Tools on Windows and Mac](1._Setup.md)
 ### 1. [Set up WSL on Windows](1.1_install_WSL_on_Windows.md)
 ### 2. [Install VS code](1.2_install_VS_Code.md)
 ### 3. [Install C++ Compiler](1.3_install_C++_compiler.md)
