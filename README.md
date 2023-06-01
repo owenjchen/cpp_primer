@@ -5,9 +5,15 @@
 
 This is an introductory C++ programming course offered by Cary Chinese School.
 
-## Why Should You Take This Course?
+## Who is this course for?
 
 > The course is designed for high school students who have some background knowledge of programming, such as knowing a little Java or Python.  However, prior programming experience will be helpful but it is not required.
+
+## [Week 0: Set up C++ Tools on Windows and Mac](1._setup.md)
+### 1. [Set up WSL on Windows](1.1_install_WSL_on_Windows.md)
+### 2. [Install VS code](1.2_install_VS_Code.md)
+### 3. [Install C++ Compiler](1.3_install_C++_compiler.md)
+### 4. [Configure VS Code for C++](1.4_configure_vs_code.md)
 
 ## [Week 1: Getting Started](week1/README.md) 
 
@@ -149,3 +155,10 @@ This is an introductory C++ programming course offered by Cary Chinese School.
 
 
 
+<hr>
+
+- Course: C++ Primer 
+- Teacher: Dr. Owen Chen
+- Cary Chinese School
+- Summer 2023
+- Github: https://github.com/owenjchen/cpp_primer
